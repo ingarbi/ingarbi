@@ -2,7 +2,7 @@
 
 ## I'm a backend-developer !
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything, especially React and Django🤣
 - 👯 I’m looking to collaborate with other developers, hire me!
 - 🥅 2023 Goals: find a job in good company and sharpen React and Django.
 
