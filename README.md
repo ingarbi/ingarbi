@@ -1,10 +1,10 @@
 # Hi there, I'm Arby 👋 
 
-## I'm a backend-developer !
+## I'm a developer !
 
-- 🌱 I’m currently learning everything, especially React and Django🤣
-- 👯 I’m looking to collaborate with other developers, hire me!
-- 🥅 2023 Goals: find a job in good company and sharpen React and Django.
+- 🌱 I’m currently learning and learning
+- 👯 I’m ready to collaborate with other developers!
+- 🥅 2023 Goals: sharpen knowledges daily.
 
 ## Connect with me:
 ### Personal webportfolio https://rbdev.tech/
