@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning and learning
 - 👯 I’m ready to collaborate with other developers!
-- 🥅 2023 Goals: sharpen knowledges daily.
+- 🥅 2024 Goals: sharpen knowledges daily.
 
 ### Languages and Tools:
 
